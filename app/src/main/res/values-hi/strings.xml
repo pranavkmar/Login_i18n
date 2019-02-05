@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Login Internationalization</string>
-    <string name="title_activity_login">Sign in</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
+
+
+    <string name="app_name">अंतर्राष्ट्रीयकरण लॉगिन</string>
+    <string name="title_activity_login">लॉगिन</string>
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">पासवर्ड (optional)</string>
     <string name="action_sign_in">Sign in or register</string>
     <string name="action_sign_in_short">Sign in</string>
     <string name="error_invalid_email">This email address is invalid</string>
@@ -11,16 +13,14 @@
     <string name="error_incorrect_password">This password is incorrect</string>
     <string name="error_field_required">This field is required</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email</string>
-    <string name="stringValue2">English</string>
 
-
-    <string name="stringValue3">Hindi</string>
     <string name="switch_string">Switch to Hindi</string>
     <string name="switch_string_en">Switch to English</string>
 
-    <string name="stringValue4">Username</string>
-    <string name="stringValue6">LOG IN</string>
-    <string name="email_userid">Email/UserID</string>
-    <string name="password">Password</string>
-
+    <string name="stringValue2">अंग्रेज़ी</string>
+    <string name="stringValue3">हिंदी</string>
+    <string name="stringValue4">उपयोगकर्ता नाम</string>
+    <string name="stringValue6">लॉगिन </string>
+    <string name="email_userid">ईमेल</string>
+    <string name="password">पासवर्ड </string>
 </resources>
